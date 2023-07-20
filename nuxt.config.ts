@@ -3,7 +3,4 @@ export default defineNuxtConfig({
   ssr: false,
   devtools: { enabled: true },
   modules: ["@vueuse/nuxt", "@vant/nuxt", "@unocss/nuxt"],
-  app: {
-    baseURL: "/facetest",
-  },
 });
