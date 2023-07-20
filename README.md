@@ -4,9 +4,16 @@
 
 | 截图                                    |        |                                         |          |
 | --------------------------------------- | ------ | --------------------------------------- | -------- |
-| <img src="./assets/1.png" width="100"/> | 入口页 | <img src="./assets/2.png" width="100"/> | 授权弹窗 |
+| <img src="./assets/1.png" width="100"/> | 入口页 | <img src="./assets/2.jpg" width="100"/> | 授权弹窗 |
 | <img src="./assets/3.png" width="100"/> | 识别中 | <img src="./assets/4.png" width="100"/> | 识别结果 |
 
+## Demo
+
+<img src="./assets/qrcode.png" width="100"/>
+
+[https://facetest.kejun.me](https://facetest.kejun.me)
+
+> 无服务器，不会收集你的信息，放心扫码测试
 ## 快速开始
 
 ```bash
